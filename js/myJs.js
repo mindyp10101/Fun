@@ -187,7 +187,7 @@ $(document).ready(function () {
                     no-repeat
                   `,
           backdrop: `
-                    rgba(400,800,123,0.4)
+                    rgba(0,0,123,0.4)
                     url("img/inlove2.gif")
                     right top
                     no-repeat
