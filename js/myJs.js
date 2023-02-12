@@ -182,13 +182,7 @@ $(document).ready(function () {
           background: '#fff url("img/iput-bg.jpg")',
           backdrop: `
                     rgba(0,0,123,0.4)
-                    url("img/inlove3.gif")
-                    right top
-                    no-repeat
-                  `,
-          backdrop: `
-                    rgba(0,0,123,0.4)
-                    url("img/inlove2.gif")
+                    url("img/cry.gif")
                     right top
                     no-repeat
                   `,
