@@ -180,6 +180,12 @@ $(document).ready(function () {
           width: 900,
           confirmButtonText: textConfig.text12,
           background: '#fff url("img/iput-bg.jpg")',
+          backdrop: `
+                    rgba(0,0,123,0.4)
+                    url("img/inlove2.gif")
+                    left top
+                    no-repeat
+                  `,
           title: textConfig.text10,
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
