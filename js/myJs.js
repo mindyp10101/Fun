@@ -1,6 +1,6 @@
 const textConfig = {
-  text1: "Happy Belated Valentine!!!",
-  text2: "MP hỏi cái này, Kiệt phải trả lời thật lòng nhaz!",
+  text1: "Happy Valentine, Kiệt!!!",
+  text2: "Ready to get silly? I'm gonna ask a question, answer it honestly okay?",
   text3: "Kiệt thích MP không??",
   text4: "Không được nói xạo nhaz! P.S. MP cũng không có đọc được nên Kiệt cứ nói thật lòng ạ! LOL",
   text5: "Không muốn trả lời :)",
@@ -184,7 +184,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://mindyp10101.github.io/Val/";
+            window.location = "https://mindyp10101.github.io/Fun/";
           },
         });
       }
