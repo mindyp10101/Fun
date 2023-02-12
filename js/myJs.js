@@ -1,5 +1,5 @@
 const textConfig = {
-  text1: "Happy Valentine, Kiệt!!!",
+  text1: "Hi there, Kiệt!!!",
   text2: "Ready to get silly? I'm gonna ask a question, answer it honestly okay?",
   text3: "Kiệt thích MP không??",
   text4: "Không được nói xạo nhaz! P.S. MP cũng không có đọc được nên Kiệt cứ nói thật lòng ạ! LOL",
@@ -81,7 +81,7 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "img/cuteCat.jpg",
+      imageUrl: "img/cute3.jpg",
       imageWidth: 300,
       imageHeight: 300,
       background: '#fff url("img/iput-bg.jpg")',
