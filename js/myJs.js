@@ -5,12 +5,12 @@ const textConfig = {
   text4: "Không được nói xạo nhaz! P.S. MP cũng không có đọc được nên Kiệt cứ nói thật lòng ạ! LOL",
   text5: "Không muốn trả lời :)",
   text6: "Không thích chút nào hết",
-  text7: "Ơ, sao lại không thích MP? Type vào box bên dưới cho MP biết lý do đi ạ!",
+  text7: "Ơ, sao lại không thích MP? MP thích Kiệt lắm mà!! Why?!?",
   text8: "Gởi MP result nào LOL",
   text9: "Tại nhỏ MP nào đó vừa lười, vừa không ngoan, lại còn trẻ con, không có gì tốt hết, nên Kiệt không thích.",
   text10: "Hiểu luôn!! Thế thôi MP xin lỗi ạ, từ nay không phiền Kiệt nữa ạ!!!",
-  text11: "P.S: Đùa chứ, Mp vẫn sẽ phiền bạn. Đến khi  thang điểm thích Kiệt về số 0 thì sẽ không phiền nữa ạ. Kiệt chịu khó 1 time nữa nha, cũng sắp hết thích Kiệt rồi ạ LOL",
-  text12: "Happy Val linh tinh, Kiệt!!",
+  text11: "P.S: Đùa chứ, Mp vẫn sẽ phiền bạn. Đến khi thang điểm thích Kiệt về số 0 thì sẽ không phiền nữa ạ. Kiệt chịu khó 1 time nữa nha, cũng sắp hết thích Kiệt rồi ạ LOL",
+  text12: "Happy Valentine, Kiệt!!",
 };
 
 
