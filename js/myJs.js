@@ -164,7 +164,7 @@ $(document).ready(function () {
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
-                    url("img/giphy3.gif")
+                    url("img/inlove.gif")
                     left top
                     no-repeat
                   `,
