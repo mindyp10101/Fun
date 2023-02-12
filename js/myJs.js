@@ -181,7 +181,7 @@ $(document).ready(function () {
           confirmButtonText: textConfig.text12,
           background: '#fff url("img/iput-bg.jpg")',
           backdrop: `
-                    rgba(800,0,123,0.4)
+                    rgba(400,800,123,0.4)
                     url("img/inlove2.gif")
                     right top
                     no-repeat
