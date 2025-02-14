@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "Hi there, Mr. Sexy Voice!!",
+  text1: "Hi there, my super sweet, super nice boyfrient!!",
   text2: "Ready to get silly? I'm gonna ask a question, answer it honestly okay?",
-  text3: "Kiệt thích MP không??",
-  text4: "Không được nói xạo nhaz! P.S. MP cũng không có đọc được nên Kiệt cứ nói thật lòng ạ! LOL",
-  text5: "Không muốn trả lời :)",
-  text6: "Không thích chút nào hết",
-  text7: "Ơ, sao lại không thích MP? MP thích Kiệt lắm mà!! Tell me why?!!! Type please",
-  text8: "Gởi MP result nào LOL",
-  text9: "Tại nhỏ MP nào đó vừa lười, vừa không ngoan, lại còn trẻ con, không có gì tốt hết, nên Kiệt không thích.",
-  text10: "Hiểu luôn!! Thế thôi MP xin lỗi ạ, từ nay không phiền Kiệt nữa ạ!!!",
-  text11: "P.S: Đùa chứ, Mp vẫn sẽ phiền bạn. Đến khi thang điểm thích Kiệt về số 0 thì sẽ không phiền nữa ạ. Kiệt chịu khó 1 time nữa nha, cũng sắp hết thích Kiệt rồi ạ LOL",
-  text12: "Happy Valentine, Kiệt!!",
+  text3: "Will you be my valentine??",
+  text4: "PS: you can be honest, it's secrete page, I won't be able to see the result! Promise!~",
+  text5: "1000% Yes! Definitely yes!",
+  text6: "Nope! No way in hell!!",
+  text7: "Oh my! I definitely did not expect this!! Why not? You better have an excellent reason for this!!! I'll be nice, and allow you to explain, now your chance to type it!! ",
+  text8: "Express Send",
+  text9: "To start, Mindy is lazy,  super dotted on Abby which I definitely don't agree. Also, what girls woke up at noon!! Half day is gone by then...",
+  text10: "But that's who I am!! I can occasionally wake up early - Maybe once a month? Nah, once every 2 months!! I will love Abby a little more and spend a little less on her LOL",
+  text11: "P.S: All joking! If you're able to still date me til this point, I guess I haven't made you super mad yet! Hopefully I won't. I know I'm not perfect, but I really like you, hopefully it counts",
+  text12: "Happy Valentine, Mẫn!!",
 };
 
 
