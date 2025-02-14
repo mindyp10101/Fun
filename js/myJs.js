@@ -1,5 +1,5 @@
 const textConfig = {
-  text1: "Hi there, my super sweet, super nice boyfrient!!",
+  text1: "Hi there, my super sweet, super nice boyfriend!!",
   text2: "Ready to get silly? I'm gonna ask a question, answer it honestly okay?",
   text3: "Will you be my valentine??",
   text4: "PS: you can be honest, it's secrete page, I won't be able to see the result! Promise!~",
